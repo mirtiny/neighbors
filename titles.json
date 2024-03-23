@@ -1,0 +1,51 @@
+[
+	{
+		"Display": "Game Artist",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Cartoon",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 5,
+		"Animation": "BoldWave",
+		"Description": ""
+	},
+	{
+		"Display": "Boogle",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 4,
+		"Animation": "Wave",
+		"Description": ""
+	},
+	{
+		"Display": "Hamcheese",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 5,
+		"Animation": "Wave",
+		"Description": ""
+	},
+	{
+        	"Display": "Denys",
+        	"Color": [240, 113, 176],
+        	"StrokeColor": [0, 0, 0],
+        	"StrokeTransparency": 0,
+       	 	"Font": "FredokaOne",
+        	"Bold": true,
+        	"Rainbow": true,
+        	"Size": 5,
+        	"Animation": "Wave",
+        	"Description": ""
+    	}
+
+]
