@@ -24,6 +24,18 @@
 		"Description": ""
 	},
 	{
+		"Display": "Boogle's Sweet Prince",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 4,
+		"Animation": "Wave",
+		"Description": ""
+	},
+	{
 		"Display": "CIBAPOY",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
